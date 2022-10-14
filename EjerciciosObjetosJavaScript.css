@@ -1,0 +1,47 @@
+h1{
+	color: #139e23;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 3em;
+	justify-content: center;
+	display: flex;
+}
+
+h2{
+	font-family: arial;
+	font-size: 2em;
+	color: darkblue;
+}
+
+button{
+	color: #9e1399;
+	width: 10em;
+	height: 5em;
+	border-radius: 0.5em;
+	border-color: #8B006F;
+	margin-left: 2em;
+	background-color: #b17a1b;
+	margin-bottom: 1em;
+}
+
+button:hover{
+	color: #1a9e91;
+	background-color: #8712ae;
+	transition: width 1s, height 1s, background-color 1s, color 1s;
+	height: 6em;
+	width: 12em;
+}
+
+body{
+	background-color: #0a6b84;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+h3{
+	font-family: comic sans ms;
+}
+
+section{
+	width: 32.5em;
+}
